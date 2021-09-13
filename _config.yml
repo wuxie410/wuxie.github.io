@@ -16,9 +16,9 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 
-repository: wuxie410/http://wuxie410.github.io 
-github_url: https://github.com/wuxie410
-url: https://wuxie410.github.io
+repository: wuxie410/wuxie410.github.io 
+github_url: github.com/wuxie410 
+url: wuxie410.github.io
 enforce_ssl: wuxie410.com
 
 ## Gem
