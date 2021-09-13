@@ -15,9 +15,9 @@ keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,
 encoding: "utf-8"
 favicon: favicon.ico 
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-url: http://www.ityouknow.com
+repository: wuxie410.github.io/wuxie.github.io
+github_url: https://wuxie410.github.io/wuxie.github.io/
+url: https://wuxie410.github.io/wuxie.github.io/
 enforce_ssl: ityouknow.com
 
 ## Gem
@@ -244,7 +244,7 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: wuxie410
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: ityouknow
